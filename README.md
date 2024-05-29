@@ -19,6 +19,7 @@ The Pi Guard system enhances security for homes and offices by integrating advan
 5. rfid_reader - debug code to read rfid tag from an adrduino sketch.
 6. rfidSerialRead - arduino code for the servomotor and the rc522 to read and send data using serial communcation
 
+---
 
 ### Circuit Schematic
 
@@ -30,3 +31,8 @@ The Pi Guard system enhances security for homes and offices by integrating advan
 ![blcok diagram](https://github.com/ewanmoak/PiGuard/assets/79072016/41abe3f5-e8a1-4868-b3ab-c6655104699a)
 
 
+### Contact
+If you have any questions or suggestions, feel free to contact me:
+ewanmoak
+Email: ewanmoavevo@gmail.com
+GitHub: ewanmoak
