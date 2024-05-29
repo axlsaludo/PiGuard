@@ -27,5 +27,6 @@ The Pi Guard system enhances security for homes and offices by integrating advan
 
 ### Circuit Block Diagram
 
-![image](https://github.com/ewanmoak/PiGuard/assets/79072016/ffc47205-5801-43ee-8bc9-8b8aff0c3238)
+![blcok diagram](https://github.com/ewanmoak/PiGuard/assets/79072016/41abe3f5-e8a1-4868-b3ab-c6655104699a)
+
 
