@@ -33,6 +33,6 @@ The Pi Guard system enhances security for homes and offices by integrating advan
 
 ### Contact
 If you have any questions or suggestions, feel free to contact me:
-ewanmoak
-Email: ewanmoavevo@gmail.com
-GitHub: ewanmoak
+- ewanmoak
+- Email: ewanmoavevo@gmail.com
+- GitHub: ewanmoak
