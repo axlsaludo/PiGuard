@@ -2,13 +2,13 @@
 The Pi Guard system enhances security for homes and offices by integrating advanced technologies such as facial recognition, RFID, and the versatile Raspberry Pi. This system seamlessly combines hardware and software components to manage security protocols effectively.
 
 ## Components
-•	Arduino Uno or Nano 
-•	Raspberry PI or Laptop
-•	Servo Motor
-•	RC522 RFID Reader
-•	RFID Card
-•	Connecting Wires
-•	Webcam
+- Arduino Uno or Nano
+- Raspberry PI or Laptop
+- Servo Motor
+- RC522 RFID Reader
+- RFID Card
+- Connecting Wires
+- Webcam
 
 
 ## Modules
