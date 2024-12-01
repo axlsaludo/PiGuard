@@ -1,3 +1,8 @@
+
+![top](https://github.com/user-attachments/assets/590094fa-ea04-48e8-b4dc-d062c1ab11d0)
+
+---
+
 # PiGuard
 The Pi Guard system enhances security for homes and offices by integrating advanced technologies such as facial recognition, RFID, and the versatile Raspberry Pi. This system seamlessly combines hardware and software components to manage security protocols effectively.
 
@@ -29,10 +34,3 @@ The Pi Guard system enhances security for homes and offices by integrating advan
 ### Circuit Block Diagram
 
 ![blcok diagram](https://github.com/ewanmoak/PiGuard/assets/79072016/41abe3f5-e8a1-4868-b3ab-c6655104699a)
-
-
-### Contact
-If you have any questions or suggestions, feel free to contact me:
-- ewanmoak
-- Email: ewanmoavevo@gmail.com
-- GitHub: ewanmoak
