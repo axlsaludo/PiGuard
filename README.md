@@ -1,6 +1,16 @@
 
 ![top](https://github.com/user-attachments/assets/590094fa-ea04-48e8-b4dc-d062c1ab11d0)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/mywebsite-1B1F24?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/linked%20in-1B1F24?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/contact%20me-1B1F24?style=for-the-badge&logo=protonmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/gcp%20dev-1B1F24?style=for-the-badge&logo=google-cloud&logoColor=white" href='https://www.cloudskillsboost.google/public_profiles/22d7733e-0133-4057-affc-6e6f5ab6f8e9' />
+    
+  </a>
+</p>
+
 ---
 
 # PiGuard
